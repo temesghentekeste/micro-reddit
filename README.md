@@ -28,7 +28,7 @@ This project is a microverse collaborative project which is part of the requirem
 
 ## Database Model <a name = "sc"></a>
 
-![screenshot](./app/assets/images/database_model.png)
+![screenshot](./app/assets/images/model_diagram.png)
 
 
 ## Getting Started <a name = "gs"></a>
