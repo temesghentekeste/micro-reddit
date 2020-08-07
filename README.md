@@ -1,4 +1,4 @@
-# Blog- App
+# Micro-Reddit
 
 This project is a microverse collaborative project which is part of the requirements of the microverse main curriculum in the Rails section. The project is about creating the model part of the MVC desing pattern using Ruby on Rails MVC framework. As the project doesn't contain any views or controllers one can only discover migration and model classes.
       
