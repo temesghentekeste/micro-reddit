@@ -26,7 +26,7 @@ This project is a microverse collaborative project which is part of the requirem
 - Ruby (Version: 2.7.1)
 
 
-## Screenshot <a name = "sc"></a>
+## Database Model <a name = "sc"></a>
 
 ![screenshot](./app/assets/images/database_model.png)
 
