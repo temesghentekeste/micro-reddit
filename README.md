@@ -5,9 +5,9 @@ This project is a microverse collaborative project which is part of the requirem
 
 <div align="center">
 
-[![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/Dipeshtwis/blogger/tree/feature/article)
-[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/Dipeshtwis/blogger/issues)
-[![GitHub Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/Dipeshtwis/blogger/pulls)
+[![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/temesghentekeste/micro-reddit/tree/feature/micro-reddit-models)
+[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/temesghentekeste/micro-reddit/issues)
+[![GitHub Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/temesghentekeste/micro-reddit/pulls)
 
 </div>
 
